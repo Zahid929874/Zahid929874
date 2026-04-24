@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=[Your Name]&fontSize=80&animation=fadeIn&fontColor=40d9ff" />
-
+May Allah bless you
 ### ✨ IT Project Manager | B.Sc. in CSE (Ongoing) | Competitive Programmer ✨
 
 <br/>
